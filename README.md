@@ -2,7 +2,8 @@
 know less to study setting
 
 ### ShadowsocksR
-download:
+download:https://docs.nameless13.com/ssr
+
 document:
 
 ### 
